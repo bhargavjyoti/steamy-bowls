@@ -1,5 +1,5 @@
 // Image
-import Cat from '../assets/About_IMG.png'
+import Cat from '/assets/About_IMG.png'
 
 const About = () => {
   return (

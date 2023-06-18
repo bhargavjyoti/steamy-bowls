@@ -1,4 +1,4 @@
-import cat from '../assets/location_img.png'
+import cat from '/assets/location_img.png'
 
 const Location = () => {
   return (

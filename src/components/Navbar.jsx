@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import { Link } from 'react-scroll';
 // logo
-import logo from '../assets/logo.png'
+import logo from '/assets/logo.png'
 
 const Navbar = () => {
   const [nav, setNav] = useState(false);

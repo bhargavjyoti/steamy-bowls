@@ -1,4 +1,4 @@
-import Cat from '../assets/cat-thinking.png';
+import Cat from '/assets/cat-thinking.png';
 import faqs from '../data/FAQ.json';
 
 const FAQ = () => {

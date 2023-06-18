@@ -1,5 +1,5 @@
 import { useForm } from "react-hook-form"
-import Tick from '../assets/tick.gif';
+import Tick from '/assets/tick.gif';
 
 const Form = () => {
     const form = useForm();

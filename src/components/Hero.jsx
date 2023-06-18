@@ -1,7 +1,7 @@
 // IMport Image
-import Hero1 from '../assets/hero-img.png'
-import Hero2 from '../assets/dumplings.png'
-import Hero3 from '../assets/chicken.png'
+import Hero1 from '/assets/hero-img.png'
+import Hero2 from '/assets/dumplings.png'
+import Hero3 from '/assets/chicken.png'
 // Importing Link
 import { Link } from 'react-scroll'
 
